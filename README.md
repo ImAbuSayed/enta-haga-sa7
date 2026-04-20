@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا غرامي قلبي معاك
+> نور عيني بيستناك
+> في الليالي روحي فداك
+> في سكوني أتنفس هواك
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
