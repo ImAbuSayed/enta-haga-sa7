@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/enta-haga-sa7/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get a Licensing Quote for Enta Haga Sa7](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
